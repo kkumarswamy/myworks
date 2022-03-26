@@ -265,6 +265,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     left: 0;
     top: 0;
     padding: 10px 0;
+    background-color: #001117;
 }
 
 .navbar-fixed-top.header_section{
